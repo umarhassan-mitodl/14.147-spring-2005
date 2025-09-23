@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "legacy_uid": "a09cd990-e116-5efb-e0ec-0d6005c623f9",
+  "instructors": {
+    "content": [
+      "114556ab-4e11-bfc2-ab71-2fe2c3eeb3b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dc3696b8-1c5d-d539-aadc-9de04bb29f46",
+    "website": "14-147-topics-in-game-theory-spring-2005"
+  },
+  "course_title": "Topics in Game Theory",
+  "course_description": "This course/workshop aims to provide an invigorating intellectual environment for graduate students and junior faculty who are interested in economic theory. We will discuss research ideas and explore topics in game theory and more broadly in economic theory.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.147",
+  "course_image_thumbnail": {
+    "content": "01bfe23f-98c2-dd5b-e2aa-af364eb8aa2c",
+    "website": "14-147-topics-in-game-theory-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "d42bb70b-32dc-4c2b-9afb-5d853c0ecca9",
+  "site_short_id": "14.147-spring-2005",
+  "site_url_path": "courses/14-147-topics-in-game-theory-spring-2005",
+  "title": "Course Metadata"
+}
