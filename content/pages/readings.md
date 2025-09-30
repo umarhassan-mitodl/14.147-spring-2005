@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the list of readings assigned for each session
   of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -101,7 +103,7 @@ Stole, L., and J. Zwiebel. "Intra-Firm Bargaining under Non-Binding Contracts." 
 
 Yildiz, M. "Walrasian bargaining." _Games and Economic Behavior_ 45 (2003).
 
-Davila, J., and J. Eeckhout. "Competitive Bargaining Equilibrium." {{% resource_link "e7e3502a-7906-4ab0-b30e-5716b5bb4ffa" "PIER Working Paper Archive" %}} 04-024, Penn Institute for Economic Research, Department of Economics, University of Pennsylvania, 2004.
+Davila, J., and J. Eeckhout. "Competitive Bargaining Equilibrium." [PIER Working Paper Archive](http://ideas.repec.org/s/pen/papers.html) 04-024, Penn Institute for Economic Research, Department of Economics, University of Pennsylvania, 2004.
 
 Li, D. "Bargaining with History-Dependent Preferences." Econometric Society 2004 North American Summer Meetings 516, Econometric Society.
 
@@ -305,11 +307,11 @@ Frankel, D., S. Morris, and A. Pauzner. "Equilibrium selection in global games w
 
 Battigalli, P., and M. Siniscalchi. "Rationalization and Incomplete Information." _Advances in Theoretical Economics_ 3, no. 1 (2003). (Article 3)
 
-Dekel, E., D. Fudenberg, and S. Morris. "{{% resource_link "a5f69a12-ed98-499f-83c0-85d0a89ee52d" "Interim Rationalizability" %}}." Harvard Institute of Economic Research Discussion Paper No. 2064, 2003.
+Dekel, E., D. Fudenberg, and S. Morris. "[Interim Rationalizability](http://ssrn.com/abstract=676672)." Harvard Institute of Economic Research Discussion Paper No. 2064, 2003.
 
 ———. 2004. "Dense Types." Faculty working paper, August 2005.
 
-Ely, J., and M. Peski. "{{% resource_link "f3272103-8e16-46da-bc71-d4caa9dd19fd" "Hierarchies of beliefs and interim rationalizability" %}}." CMS-EMS Northwestern University Working Paper No. 1388, 2004.
+Ely, J., and M. Peski. "[Hierarchies of beliefs and interim rationalizability](http://ssrn.com/abstract=626641)." CMS-EMS Northwestern University Working Paper No. 1388, 2004.
 
 Weinstein, J.,and M. Yildiz. "Finite-order implications of any equilibrium." Levine's Working Paper Archive 122247000000000065, UCLA Department of Economics, 2004.
 
